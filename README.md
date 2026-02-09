@@ -31,7 +31,7 @@ UCI Individual Household Electric Power Consumption Dataset.
 ![Daily energy consumption](figures/daily_energy.png)
 
 ### Autocorrelation (ACF) of daily consumption
-![ACF](figures/acf_daily_kwh.png)
+![ACF](figures/autocorrelation.png)
 
 ### Forecast vs actual (test set)
 ![Forecast vs actual](figures/forecast_vs_actual.png)
