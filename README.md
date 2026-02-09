@@ -14,3 +14,4 @@ UCI Individual Household Electric Power Consumption Dataset.
 ## Files
 - `analysis.ipynb`: EDA and feature engineering
 - `modeling_and_forecasting.ipynb`: Modeling, evaluation, and diagnostics
+- `aggregate_data.ipynb`: Helper module to preprocess data
